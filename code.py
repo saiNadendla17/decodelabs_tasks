@@ -74,7 +74,7 @@ while True:
         print("Bot : My name is DecodeBot.")
 
     elif user == "who created you":
-        print("Bot : I was created by Nadendla Sai Vyshnavi as part of the DecodeLabs Artificial Intelligence Internship Project.")
+        print("Bot : I was created by Nadendla Sai Vyshnavi as part of the DecodeLabs Artificial Intelligence Internship Projects.")
 
     # AI Questions
     elif user == "what is ai":
