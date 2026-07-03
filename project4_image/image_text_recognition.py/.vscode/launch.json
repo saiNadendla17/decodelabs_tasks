@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run image_text_rec.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/image_text_rec.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
